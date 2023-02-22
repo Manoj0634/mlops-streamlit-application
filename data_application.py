@@ -2,10 +2,6 @@ import pandas as pd
 import streamlit as st
 import yfinance as yf
 import datetime
-
-
-st.image("./images/apple_logo.png", width=100)
-
 st.write("""
 # Stock Price Analyser
 Shown are the Apple Stock's **closing prices** and **volume of shares** traded.
