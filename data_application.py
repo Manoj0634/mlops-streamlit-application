@@ -44,4 +44,3 @@ with st.expander("See explanation"):
         - It's a line chart and hovering over a particular point will show the details in a tooltip.
         - You can also zoom in and out to play witht the detailing of the chart.
     """)
-    st.image("./images/apple.jpeg", width = 50)
